@@ -1,5 +1,5 @@
 {
-  "name": "aws-sqs",
+  "name": "aws-sqs-helper",
   "version": "0.1.0",
   "author": "BahaaGalal <bahaa.g.ali@gmail.com>",
   "description": "amazon sqs helper utility, connects to amazon sqs, retrieves messages and send messages.",
